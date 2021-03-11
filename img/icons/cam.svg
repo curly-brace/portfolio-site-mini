@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:x="adobe:ns:meta/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="39.06"
+   height="31.88"
+   viewBox="0 0 39.06 31.88"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="cam.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="23.933501"
+     inkscape:cx="12.740355"
+     inkscape:cy="15.94"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30" />
+  <metadata
+     id="metadata22">
+<?xpacket begin="ÿ" id="W5M0MpCehiHzreSzNTczkc9d"?>    <x:xmpmeta
+       x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+      <metadata>
+        <rdf:RDF>
+          <rdf:Description
+             rdf:about="" />
+          <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+    </x:xmpmeta>
+<?xpacket end="w"?>  </metadata>
+  <defs
+     id="defs26">
+    <style
+       id="style24">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M1362.33,1536.95h-33.66a2.68,2.68,0,0,1-2.7-2.66v-21.27a2.687,2.687,0,0,1,2.7-2.66h8.16a9.353,9.353,0,0,1-.08-1.99,3.34,3.34,0,0,1,3.36-3.32h10.78a3.34,3.34,0,0,1,3.36,3.32,8.335,8.335,0,0,0,.09,1.99h7.99a2.678,2.678,0,0,1,2.69,2.66v21.27A2.672,2.672,0,0,1,1362.33,1536.95Zm-16.77-5.35a7.976,7.976,0,1,0-8.08-7.98A8.03,8.03,0,0,0,1345.56,1531.6Z"
+     transform="translate(-1325.97 -1505.06)"
+     id="path28"
+     style="fill:#000000;fill-opacity:1" />
+</svg>
